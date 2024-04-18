@@ -1,5 +1,5 @@
 # NFT-Marketplace
-﻿# NFT Marketplace
+
 
 The project is a platform to collect and exchange NFTs. 
 It is connected to Metamask Wallet and Ethereum blockchain mumbai.
