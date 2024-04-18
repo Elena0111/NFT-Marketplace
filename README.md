@@ -14,9 +14,9 @@ It supports user interactions and notifications.
 * NFTs and collections creation (both public and private)
 * It supports user interaction, allowing to like public collections and leave comments
 * Users can save public NFTs, that will be displayed in the Favorites section
-* Users can delete their own comments, while admin che delete all comments
+* Users can delete their own comments, while admin can delete all comments
 * Notifies the user when the gas level is unsufficient to execute the smart contract
-* Notifies when a previously saved public NFT becomes on sell
+* Notifies when a previously saved public NFT becomes on sale
 * Private sections for registered users only
 
 ## Screenshots
